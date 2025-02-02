@@ -1,5 +1,6 @@
 streamlit
-firebase
 pyrebase4
 pymysql
 uuid
+mysql-connector-python
+requests
