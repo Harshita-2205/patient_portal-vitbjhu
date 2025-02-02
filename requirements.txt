@@ -4,3 +4,4 @@ pymysql
 uuid
 mysql-connector-python
 requests
+setuptools
