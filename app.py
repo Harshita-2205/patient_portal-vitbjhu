@@ -1,5 +1,5 @@
 import streamlit as st
-from firebase_config import auth, storage
+from firebase_config import storage
 from mysql_connection import get_connection
 import uuid
 
