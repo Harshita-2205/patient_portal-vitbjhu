@@ -1,0 +1,6 @@
+streamlit
+firebase
+pyrebase4
+pymysql
+uuid
+hashlib
